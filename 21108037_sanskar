@@ -90,11 +90,11 @@ int main(){
     //Initialising an empty linked list
     Node*head=NULL;
     //Inserting family detais in linked list
-    append(head,"SUNIL TRIPATHI",45);
-    append(head,"SUNITA TRIPATHI",40);
-    append(head,"HRITIK TRIPATHI",23);
-    append(head,"ROSHAN TRIPATHI",20);
-    append(head,"ADISHWAR TRIPATHI",17);
+    append(head,"KRISHNPAL RAGHUVANSHI",45);
+    append(head,"REKHA RAGHUVANSHI",40);
+    append(head,"SANSKAR RAGHUVANSHI",20);
+    append(head,"PRACHI RAGHUVANSHI",18);
+    append(head,"ANUSHKA RAGHUVANSHI",16);
     cout<<endl;//For space
     //Displaying Family details
     cout<<"Doubly Linked list with my family members as elements is shown below:"<<endl;
